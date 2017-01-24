@@ -2,12 +2,15 @@
 layout: default
 title: {{ site.name }}
 ---
-
-<div id="home">
-  <h1>Все выпуски</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date_to_string }}</span></li>
-    {% endfor %}
-  </ul>
-</div>
+{% include our-content.html %}
+<section class="main-content">
+	<div id="home">
+		<h1>Все выпуски</h1>
+			<ul class="posts">
+				{% for post in site.posts %}
+					<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date_to_string }}</span></li>
+				{% endfor %}
+			</ul>
+	</div>
+	{% include page-footer.html %}
+</section>

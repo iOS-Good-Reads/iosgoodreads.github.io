@@ -3,6 +3,16 @@ h3 {
   font-weight: 300;
 }
 
+.page-header a {
+  color: #ffffff;
+}
+
+.page-header a:hover {
+  text-decoration:none; !important
+  font-weight:bold; !important
+  cursor:default; !important
+}
+
 .container {
   float: none;
   max-width: 100%;
