@@ -1,13 +1,15 @@
 # Setup
-title:        iOS Good Reads
-tagline:      Самые интересные статьи, новости и видео, связанные с iOS разработкой.
-baseurl:      ""
-paginate:     1
+title: iOS Good Reads
+tagline: Самые интересные статьи, новости и видео, связанные с iOS разработкой.
+baseurl: ""
+paginate: 1
 
 # About/contact
 author:
-  name:       etolstoy
-  url:        http://etolstoy.com 
+  name: Egor Tolstoy
+  url: http://etolstoy.com
+  email: igrekde@gmail.com
+  telegram: etolstoy 
 
 # Gems
 gems:
