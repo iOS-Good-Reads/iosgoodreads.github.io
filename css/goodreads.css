@@ -32,3 +32,20 @@ h3 {
     width: 33.333%; 
   } 
 }
+
+#home {
+  text-align: center;
+}
+
+#home h1 {
+  margin-bottom: 30px;
+}
+
+#home ul {
+  margin-bottom: 50px;
+}
+
+#home li {
+  list-style-type: none;
+  font-size: 25px;
+}
