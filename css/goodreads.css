@@ -59,3 +59,26 @@ h3 {
   list-style-type: none;
   font-size: 25px;
 }
+
+#mc_embed_signup .button {
+  color: #f0ad4e;
+}
+
+.header-menu {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.header-menu a {
+  margin-right: 15px;
+  margin-left: 15px;
+  font-size: 20px;
+  font-weight:bold; !important
+  word-break: keep-all;
+}
+
+.header-menu a:hover {
+  text-decoration:underline; !important
+  font-weight:bold; !important
+  cursor:default; !important
+}
