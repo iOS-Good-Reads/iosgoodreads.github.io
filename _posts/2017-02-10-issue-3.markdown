@@ -1,0 +1,84 @@
+---
+layout: default
+title:  "Выпуск  #3"
+date:   2017-02-10 21:00:00
+categories: main
+---
+
+## Введение
+
+Эта неделя - однозначно про React Native. Как-то внезапно появилось сразу несколько отличных лонгридов от команд, вложивших в его внедрение достаточно много усилий. И фидбэк прямо очень положительный. Маленький любитель хайпа внутри меня снова загорелся идеей погонять React Native на каком-нибудь домашнем проекте. Нет, правда, плюсы выглядят очень здраво.
+
+*Егор Толстой. Avito, руководитель мобильной разработки.*
+
+## Главные материалы
+
+Лонгрид от Орты - ретроспектива внедрения React Native в основное приложение Artsy. Прошел уже год с момента их первого знакомства с технологией, и накопленный ребятами опыт очень ценен.
+
+[artsy.github.io](http://artsy.github.io/blog/2017/02/05/Retrospective-Swift-at-Artsy/)
+ 
+Оказывается, Instagram тоже вовсю экспериментируют с React Native и остаются довольны. Ну и, кстати, из статьи можно сделать несколько выводов об организационном устройстве их команды.
+
+[engineering.instagram.com](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.y6fucjxg4)
+
+React Native используют и в России. Евгений Ртищев, архитектор из СберТеха, рассказывает о разработке целой платформы для их внутренних приложений.
+
+[youtube.com](https://www.youtube.com/watch?v=Hhm0k7F3NRM)
+
+Всю секцию "Главные материалы" на этой неделе хотелось посветить React Native, но я никак не могу пройти мимо бесконечно крутой разработки Алексея Денисова - системы мутационного тестирования для языков, работающих с LLVM. Как говорится, я знаю, что вы будете делать сегодня вечером - внедрять Mull в свои проекты.
+
+[twitter.com](https://twitter.com/1101_debian/status/828717346915282944)
+
+## Что еще почитать
+
+Airbnb делятся своим опытом миграции приложения на Swift 3, затрагивая все плюсы и минусы от этого перехода.
+
+[medium.com](https://medium.com/airbnb-engineering/getting-to-swift-3-at-airbnb-79a257d2b656#.2pl6p5pds)
+
+Отличная статья для новичков про работу с GCD в Swift 3. Все базовые концепции и функции разбираются буквально на пальцах, так что можете смело сохранять себе или вбрасывать тем, кто задает много вопросов.
+
+[appcoda.com](http://www.appcoda.com/grand-central-dispatch/)
+
+Очень клевый компонент, который умеет делать красивый кастомный pull-to-refresh из svg-пути. Ставим, пользуемся, вбрасываем баги.
+
+[github.com](https://github.com/strongself/MRefresh)
+
+Про сходства и различия в работе с памятью в языках Swift и Rust.
+
+[medium.com](https://medium.com/@itchyankles/memory-management-in-rust-and-swift-8ecda3cdf5b7#.gwkp2d4fh)
+
+Хороший доклад про генетические алгоритмы в целом, и их использование в нескольких синтетических задачах на свифте. Просвещайтесь.
+
+[skilled.io](https://www.skilled.io/u/swiftsummit/rubik-s-cubes-and-genetic-algorithms-in-swift)
+
+Обеспечиваем потокобезопасность при работе с CoreData, закрывая NSManagedObject свифтовыми протоколами. Решение не без недостатков (в ObjC вообще не рекомендую так делать), но жизнеспособное. А по ссылке в статье есть еще вариант по работе со структурами.
+
+[swifting.io](https://swifting.io/blog/2017/02/05/35-structs-alternative-using-swift-protocols-to-enhance-safety-of-core-data-access/)
+
+В который уже раз про написание интерпретатора для языка X на Swift. Теперь в роли X - LISP.
+
+[uraimo.com](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
+
+Cравнение двух системных API для работы с нейронными сетями: BNNS, работающего на CPU, и MPSCNN,  работающего на GPU. Разбираются особенности устройства каждого, кейсы применения и производительность.
+
+[machinethink.net](http://machinethink.net/blog/apple-deep-learning-bnns-versus-metal-cnn/)
+
+Еще одно видео с MoBiCoDe - выступление Александра Сычева про внедрение архитектуры CQRS в iOS приложения. Доклад больше теоретический, но от этого не менее ценный. Если вам не хватает баззвордов в описании, то проспойлерю - упоминается Flux.
+
+[youtube.com](https://www.youtube.com/watch?v=KQ8s2xekW3k)
+
+## Ближайшие события
+
+PeerLab, Москва - 11.02.17
+
+[telegram.me](https://telegram.me/peerlabmoscow)
+
+CocoaHeads, Москва - 01.03.17
+
+[eventbrite.com](https://www.eventbrite.com/e/cocoaheads-russia-1-2017-tickets-31990816393)
+
+## Вакансии
+
+Avito, Москва. iOS разработчик.
+
+[hh.ru](https://hh.ru/vacancy/15112449)
