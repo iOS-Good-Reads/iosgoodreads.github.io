@@ -1,0 +1,80 @@
+---
+layout: default
+title:  "Выпуск  #6"
+date:   2017-03-03 21:00:00
+categories: main
+---
+
+## Введение
+
+Долгие годы в мобильной разработке был серьезный дисбаланс - у Android-сообщества было разу несколько подкастов, а у iOS - ни одного. Мы со Стасом Цыгановым и Глебом Новиком решили эту ситуацию исправить и записали первый выпуск [Podlodka](https://soundcloud.com/podlodka), где полтора часа проболтали про VIPER, React Native и последние новости. Выпуски планируем делать регулярными, тем - очень много, так что подписывайтесь в iTunes и ставьте нам по пять звезд.
+
+*Егор Толстой. Avito, руководитель мобильной разработки.*
+
+## Главные материалы
+
+Главный материал недели. Facebook выложили research paper, где целиком описали свой подход к мобильному Continuous Delivery. Готовьтесь к лонгриду.
+
+[research.fb.com](https://research.fb.com/wp-content/uploads/2017/02/fse-rossi.pdf)
+ 
+Очень поверхностно, но зато обо всех процессах, которые есть в разработке Google. Ничего нового, но зато собрано в одном месте, и можно поглядывать в поисках лучших практик.
+
+[dev.by](https://dev.by/lenta/main/razrabotka-po-v-google-praktiki-roli-i-vsyo-vsyo-vsyo)
+
+Хайповая статья про GraphQL и его преимущество над REST. Ну правда же отлично смотрится и решает очень много из тех проблем, с которыми лично я сталкивался при разработке того же ЖЖ.
+
+[medium.com](https://medium.com/@ottovw/rest-api-downfalls-and-dawn-of-graphql-dd00991a0eb8#.ypncoud5c)
+
+## Что еще почитать
+
+Отличная статья-приключение от 2GIS про счастье и стабильность при работе с extension'ами CallKit. Шучу про стабильность. Про счастье тоже.
+
+[habrahabr.ru](https://habrahabr.ru/company/2gis/blog/323050/)
+
+Про пользу и вред большого количества сторонних зависимостей. Все сводится к простой формуле - польза от зависимостей в проекте обратно пропорциональна времени, затрачиваемому командой на его разработку.
+
+[eli.thegreenplace.net](http://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/)
+
+Методами машинного обучения (но это не точно) выбрали десять лучших (но это тоже не точно) статей и ресурсов по Swift за 2016 год. Enjoy.
+
+[medium.mybridge.co](https://medium.mybridge.co/swift-top-10-articles-for-the-past-year-e4551a19121#.fo1g82a48)
+
+Наткнулся на очень интересный материал от Spotify про то, как они разрабатывали модель карьерной лестницы в компании, как подошли к процессу и какие результаты получили.
+
+[labs.spotify.com](https://labs.spotify.com/2016/02/08/technical-career-path)
+
+Транскрипт выступления Ash Furrow про различные подходы к написанию асинхронного кода на Swift, в том числе и рассуждения про пока нереализуемые async/await и корутины.
+
+[ashfurrow.com](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
+
+Пошаговая реализация интерфейса нескольких приложений, победивших в Apple Design Awards. Все на Swift, конечно же.
+
+[medium.com](https://medium.com/exyte/replicating-apple-design-awarded-applications-70e5df4c4b94#.5qopgr921)
+
+И еще вдогонку - мы в Avito на этой неделе выложили в Open Source космический медиапикер, чтобы вам в своих приложениях не пришлось велосипедить.
+
+[medium.com](https://github.com/avito-tech/Paparazzo)
+
+## Ближайшие события
+
+PeerLab/Starbucks, Москва - 04.03.17 (Суббота)
+
+[telegram.me](https://telegram.me/peerlabmoscow)
+
+PeerLab/Корица, Киев - 19.03.17 (Воскресенье)
+
+[meetup.com](https://www.meetup.com/Software-Development-Study-Group-in-KYIV/)
+
+CodeFest 2017, Новосибирск - 01-02.04.2017 (Суббота-Воскресенье)
+
+[codefest.ru](https://2017.codefest.ru/)
+
+Mobius 2017, Санкт-Петербург - 21-22.04.2017 (Пятница-Суббота)
+
+[mobiusconf.com](https://mobiusconf.com/)
+
+## Вакансии
+
+Avito, Москва. iOS разработчик.
+
+[hh.ru](https://khimki.hh.ru/vacancy/15112449)
