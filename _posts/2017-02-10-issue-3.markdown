@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Выпуск  #3"
 date:   2017-02-10 21:00:00
 categories: main
