@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Выпуск  #13"
+date:   2017-04-21 21:00:00
+categories: main
+---
+
+## Введение
+
+Подвел [результаты опроса](https://medium.com/@etolstoy/%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-26166a662cca), который проводил пару недель назад, посвященного изучению влияния техпиара разных компаний на интерес и вовлеченность сообщества. Итоги прямо неоднозначные, буду проводить такие опросы ежегодно и смотреть динамику изменения результатов.
+
+Ну а в целом - я два дня на Мобиусе, поэтому ищите меня, готов пообщаться!
+
+*Егор Толстой. Avito, руководитель мобильной разработки.*
+
+## Главные материалы
+
+Готовы результаты опроса про технический пиар команд мобильной разработки - все свел, построил графики и даже немного диванной аналитики добавил.
+
+[medium.com](https://medium.com/@etolstoy/%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-26166a662cca)
+
+Основная тема нового выпуска Podlodka - антипаттерны в промышленной разработке, разоблачать которые нам помогал “нулевой iOS разработчик Яндекса” Роман Бусыгин. Кроме того, вместе с Александром Зиминым обсудили приближающийся Mobius, доклады и спикеров.
+
+[telegra.ph](http://telegra.ph/Podlodka-7---Antipatterny-v-promyshlennoj-razrabotke-04-17)
+
+## Что еще почитать
+
+Написали статью про то, как создавался космический медиа-пикер Paparazzo, который с большой долей вероятностью закроет все ваши потребности в работе с фотографиями.
+
+[habrahabr.ru](https://habrahabr.ru/post/326774/)
+
+Яндекс опубликовал видеозаписи с прошедшего CocoaHeads. Пропустил все доклады, кроме первого, так что про них рассказать ничего не смогу. А про звук - интересно.
+
+[events.yandex.ru](https://events.yandex.ru/events/yagosti/07-apr-2017/)
+
+Не используйте кроссплатформу, сториборды, сторонние зависимости и менеджеры пакетов. А, и используйте CoreData. (Мнение автора статьи в ряде пунктов не совпадает с моим, если что).
+
+[hackernoon.com](https://hackernoon.com/5-key-learnings-after-8-years-of-ios-development-7190d8a01d09)
+
+Pinterest отжали у Facebook AsyncDisplayKit, переименовали его в Texture и раскрыли дальнейшие планы по разработке.
+
+[medium.com](https://medium.com/@Pinterest_Engineering/introducing-texture-a-new-home-for-asyncdisplaykit-e7c003308f50)
+
+Отличный разбор стартового онбоардинга новых пользователей а приложении авиакомпании United. Посмотрите, как точно делать не надо.
+
+[useronboard.com](http://www.useronboard.com/how-united-onboards-new-users/)
+
+Отличный пример нейронки на Swift, которая сопоставляет рисунки со смайликами.
+
+[github.com](https://github.com/Luubra/EmojiIntelligence)
+
+Серия пока что из двух туториалов, которая сделает из вас мастеров автолэйаута. Частично капитанщина, но неплохой обучающий материал для новичков или тех, кто подзабыл.
+
+[digitalleaves.com](https://digitalleaves.com/ultimate-guide-autolayout/)
+
+Интегрируем CPD в свифтовый проект и ищем дублирующийся код.
+
+[medium.com](https://medium.com/@nvashanin/%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D0%25B3%25D1%2580%25D0%25B8%25D1%2580%25D1%2583%25D0%25B5%25D0%25BC-copy-paste-detector-%25D0%25B4%25D0%25BB%25D1%258F-swift-%25D0%25B2-xcode-9ae87c20748)
+
+## Ближайшие события
+
+PeerLab/Starbucks, Москва - 07.04.17 (Суббота)
+
+[telegram.me](https://telegram.me/peerlabmoscow)
+
+Alfa Lab Mobile Talks, Москва - 26.04.17 (Среда)
+
+[telegra.ph](http://telegra.ph/iOS-Meetup-v-Alfa-Laboratorii-04-19)
+
+Red Hot Chili Apples, Санкт-Петербург - 26.04.17 (Среда)
+
+[events.yandex.ru](https://events.yandex.ru/events/meetings/26-april-2017/)
+
+Mambility, Москва - 26.04.17 (Среда)
+
+[timepad.ru](https://mamba.timepad.ru/event/464492/)
+
+PeerLab/Avito, Москва - 27.04.17 (Четверг)
+
+[goo.gl](https://goo.gl/forms/gIfRsnRw23iiM1822)
+
+## Вакансии
+
+KamaGames Studio, Москва, Ведущий разработчик iOS.
+
+Наш проект - социальный сервис для общения и поиска новых друзей по интересам. Нужны профессионалы, готовые развивать и улучшать продукт.
+
+[hh.ru](https://hh.ru/vacancy/18945844)
