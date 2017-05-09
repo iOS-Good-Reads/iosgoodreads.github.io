@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Выпуск  #15"
+date:   2017-05-05 21:00:00
+categories: main
+---
+
+## Введение
+
+
+Оказывается, готовить рассылку с телефона не слишком удобно, поэтому в этот раз без большого введения. В целом все спокойно, отгуляли кучу митапов, готовимся к WWDC и радуемся новой аналитике в iTunes.
+
+*Егор Толстой. Avito, руководитель мобильной разработки.*
+
+## Главные материалы
+
+Все, что вы когда-либо хотели знать о парном программировании. Как правильно разбиваться, как построить процесс в зависимости от решаемой проблемы - отличный материал, в общем.
+
+[thoughtworks.com](https://www.thoughtworks.com/insights/blog/pairing-are-you-doing-it-wrong)
+
+Хот ньюз. Аналитика iTunes Connect теперь показывает источники трафика - из каких сайтов и приложений люди перешли на страницу приложения.
+
+[developer.apple.com](https://developer.apple.com/news/?id=05032017a)
+
+## Что еще почитать
+
+
+Гайд от ребят из PSPDFKit по использованию Lottie - как со стороны разработчика, так и со стороны дизайнера.
+
+[pspdfkit.com](https://pspdfkit.com/blog/2017/creating-better-user-experiences-with-animations-and-lottie/)
+
+Используем ряд языковых плюшек Swift для работы с UI. Во многом капитанство, но часть лайфхаков могут пригодиться.
+
+[news.realm.io](https://news.realm.io/news/sommer-panage-writing-your-ui-swiftly/)
+
+Вторая (и последняя) часть статьи про то, как в Avito писали свой медиапикер. В этот раз - про абстракции над разными источниками фотографий и непосредственную работу с фотогалереей.
+
+[habrahabr.ru](https://habrahabr.ru/company/avito/blog/327486/)
+
+Применяем стили к любым вьюшкам с помощью паттерна декоратор.
+
+[habrahabr.ru](https://habrahabr.ru/post/327662/)
+
+Астрологи объявили неделю статей про работу со стилями на Swift. В этот раз - с использованием Mirror.
+
+[medium.com](https://medium.com/@panovdev/using-mirror-for-styles-in-swift-ed30119a37ed)
+
+Весьма годная IDE для написания React Native приложений. Ну или по крайней мере, так пишут ее авторы.
+
+[decoide.org](https://www.decoide.org/docs/getting-started)
+
+Разработчик Spark рассказывает лайфхаки, которые помогают им разрабатывать и тестировать высокопроизводительное приложение.
+
+[youtu.be](https://youtu.be/X8p7fPx-4R8)
+
+Про интеграцию SwiftLint и Danger CI.
+
+[medium.com](https://medium.com/@candost/using-swiftlint-and-danger-for-swift-best-practices-48432e4e268a)
+
+## Ближайшие события
+
+PeerLab/Starbucks, Москва - 06.05.17 (Суббота)
+
+[telegram.me](https://telegram.me/peerlabmoscow)
+
+Improve Digital iOS Meetup, Новосибирск - 11.05.17 (Четверг)
+
+[improve-group.ru](http://improve-group.ru/blog/iOS-meetup-may.html)
+
+CocoaHeads Russia, Санкт-Петербург - 12.05.17 (Пятница)
+
+[events.yandex.ru](https://events.yandex.ru/events/yagosti/12-may-2017/)
+
+## Вакансии
+
+Avito, Москва. iOS разработчик.
+
+[hh.ru](https://hh.ru/vacancy/20393239)
