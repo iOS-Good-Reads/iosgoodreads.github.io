@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Выпуск  #16"
+date:   2017-05-12 21:00:00
+categories: main
+---
+
+## Введение
+
+WWDC все ближе. Все русскоязычные посетители собираются в одном Telegram-чатике. Если тоже поедете - [подключайтесь](https://t.me/joinchat/AAAAAEKL0PcaDKgZPqzAtA), поможет координировать действия. И не забывайте [регистрироваться](https://itunes.apple.com/ru/app/parties-for-wwdc/id879924066?mt=8) на все мероприятия в Сан-Хосе, с каждым днем появляются новые.
+
+*Егор Толстой. Avito, руководитель мобильной разработки.*
+
+## Главные материалы
+
+Запустился аналог почившего objc.io, только про Swift. Обещают раз в два месяца делать новый выпуск с уникальным контентом. В этот раз про SourceKitten, Server Side Swift и безопасность.
+
+[pragmaticswift.com](http://pragmaticswift.com/issue/may-2017.html)
+
+Тема рекрутинга и прохождения собеседований постоянно всплывает в выпусках Podlodka. Мы позвали в гости Алексея Исаева, руководителя группы рекрутмента в компании GMS, чтобы получить комментарии профессионального HR. В процессе обсуждения привели много цифр - вилки зарплат, количество разработчиков на рынке, проценты открытых резюме. Обсудили технологические тренды в HR, механизмы проведения собеседований и необходимый бэкграунд для технических рекрутеров.
+
+[telegra.ph](http://telegra.ph/Podlodka-9---Rekruting-i-rynok-mobilnoj-razrabotki-05-09)
+
+## Что еще почитать
+
+Очень клевое исследование культуры code review в командах, работающих с различными языками разработки. Много цифр и выводов.
+
+[medium.com](https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312)
+
+Отличный наброс. SOLID - это просто мантра для бедных и способ зарабатывать деньги.
+
+[yegor256.com](http://www.yegor256.com/2017/03/28/solid.html)
+
+Реверс-инжиниринг protobuf запроса к сервисам геолокации Apple. Методика анализа может пригодиться и вам.
+
+[appelsiini.net](https://appelsiini.net/2017/reverse-engineering-location-services/)
+
+Неплохая статья про Smalltalk, его отличия от других языков программирования, и доводы в пользу того, чтобы начать его изучение.
+
+[habrahabr.ru](https://habrahabr.ru/post/328156/)
+
+Стоит ли 100% покрытие кода тестами усилий, которые придется на это затратить? Разбираемся на примерах, правда на Java, но не суть.
+
+[labs.ig.com](https://labs.ig.com/code-coverage-100-percent-tragedy)
+
+Итеративный подход к рефакторингу функции и ее тестов с использованием инструмента для мутационного тестирования Mull.
+
+[stanislaw.github.io](https://stanislaw.github.io/2017/05/05/unbreakable-code.html)
+
+Что лучше - работать в офисе или удаленно, и к каким последствиям это может привести.
+
+[bitquabit.com](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
+
+## Ближайшие события
+
+PeerLab/Starbucks, Москва - 13.05.17 (Суббота)
+
+[telegram.me](https://telegram.me/peerlabmoscow)
+
+CocoaHeads Russia, Москва - 19.05.17 (Пятница)
+
+[eventbrite.com](https://www.eventbrite.com/e/cocoaheads-russia-badoo-19-2017-tickets-34542920806)
+
+Rambler.iOS #9, Москва - 25.05.17 (Четверг)
+
+[rambler-co-e-org.timepad.ru](https://rambler-co-e-org.timepad.ru/event/490829/)
+
+## Вакансии
+
+Avito, Москва. iOS разработчик.
+
+[hh.ru](https://hh.ru/vacancy/20393239)
