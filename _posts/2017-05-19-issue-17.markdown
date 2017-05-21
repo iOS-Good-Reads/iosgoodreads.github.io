@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Выпуск  #17"
+date:   2017-05-19 21:00:00
+categories: main
+---
+
+## Введение
+
+На неделе прошел UIKonf, причем все записи уже сейчас [доступны на Youtube](https://www.youtube.com/watch?v=7DIVDzHtL2c&list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG). Хорошие доклады вроде как есть, но есть и откровенно странные. В общем, выбирайте тщательнее, а то можете напороться на [Implementing Compassion](https://www.youtube.com/watch?v=8YgN9XWE_dY&list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG&index=10).
+
+*Егор Толстой. Avito, руководитель мобильной разработки.*
+
+## Главные материалы
+
+Это слишком важно, чтобы не зашарить и в рассылке про iOS разработку. Kotlin - теперь официальный язык разработки для Android.
+
+[blog.jetbrains.com](https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/)
+
+В новом выпуске Podlodka обсудили, что делать мобильному разработчику, который хочет написать бэкенд для своего приложения, но понятия не имеет, как. Вместе с Германом Сапрыкиным разобрали все популярные BaaS, CaaS и self hosted решения, их плюсы, минусы и методику выбора подхода для себя. А напоследок узнали, как ему живется и работается в Бангкоке.
+
+[telegra.ph](http://telegra.ph/Podlodka-10---BaaS-CaaS-i-self-hosted-backend-05-15)
+
+## Что еще почитать
+
+Мощный лонгрид от Фаулера, в котором он описывает разные паттерны для работы с GUI, сравнивает их и выделяет плюсы и минусы каждого.
+
+[martinfowler.com](https://www.martinfowler.com/eaaDev/uiArchs.html)
+
+Тут предлагают работать с xibами по TDD. Ну такое.
+
+[medium.com](https://medium.com/compileswift/how-to-test-a-nib-533d02847d78)
+
+Используем семантику массивов, строк и прочего добра в наших классах с помощью протокола ExpressibleBy.
+
+[martiancraft.com](http://martiancraft.com/blog/2017/05/express-yourself-swift-style/)
+
+Забавный разбор различных реакций разработчиков на упавший билд в CI-системе. Конечно, капитанство - если всем плевать на красные сборки, то команда - разгильдяи, не обоадает потенциалом к обучению, и все такое. Но в целом - попробуйте применить к своей команде и сравните результат.
+
+[codingwithempathy.com](http://codingwithempathy.com/2017/01/17/please-break-build/)
+
+Подробный гайд про все (ну или почти) способы синхронизации потоков, доступные в Swift.
+
+[uraimo.com](https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/)
+
+Шесть необычных концепций в языках программирования, КОТОРЫЕ ВЗОРВУТ ВАМ МОЗГ. На самом деле не взорвут, но весьма интересно.
+
+[ybrikman.com](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
+
+## Ближайшие события
+
+PeerLab/Starbucks, Москва - 19.05.17 (Суббота)
+
+[telegram.me](https://telegram.me/peerlabmoscow)
+
+PeerLab/Starbucks, Москва - 22.05.17 (Среда)
+
+[goo.gl](https://goo.gl/forms/P0GlSdpuaIIqBxxu2)
+
+Rambler.iOS #9, Москва - 25.05.17 (Четверг)
+
+[rambler-co-e-org.timepad.ru](https://rambler-co-e-org.timepad.ru/event/490829/)
+
+## Вакансии
+
+Avito, Москва. iOS разработчик.
+
+[hh.ru](https://hh.ru/vacancy/20393239)
